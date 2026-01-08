@@ -3,9 +3,7 @@
 <p align = "center">
 	<img src = "https://komarev.com/ghpvc/?username=ffyodor&style=plastic&color=4f4b69" alt = "Profile Views"/>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=4f4b69&size=25&center=true&vCenter=true&width=600&height=100&lines=++𝐒𝐨𝐦𝐞𝐭𝐡𝐢𝐧𝐠+𝐚𝐛𝐥𝐞+𝐭𝐨+𝐟𝐢𝐱"></a>
-</p>
+
 
 ##
 <div align="center">
