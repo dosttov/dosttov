@@ -7,7 +7,7 @@
 ##
 <div align="center">
 	<img width=80%
-  src="https://github.com/foxetiin/foxetiin/blob/main/021bf10d32365fbd6cb8c59d9ee46758.jpg?raw=true"
+  src="https://github.com/dosttov/dosttov/blob/main/fyolai%202.jpg?raw=true"
 	   </div>
 
   
